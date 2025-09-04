@@ -70,6 +70,7 @@ Everything is built on normalized, scale-aware geometry so it works for differen
 
 **Run Instructions**
 1. Clone this repo or copy codes 
+   - Git clone https://github.com/Siddartharekanti/Hand-Gesture-Recognition.git
 2. Move into the folder where the project app.py is there
 3. pip install -r requirements.txt
 4. python app.py
