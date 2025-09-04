@@ -60,6 +60,11 @@ Everything is built on normalized, scale-aware geometry so it works for differen
 - V-Sign ✌️  
   Index and Middle extended, Ring and Pinky not extended.
 
+-🤘 Rock Sign – Index + Pinky extended; Middle + Ring curled; Thumb curled or neutral.
+
+-🤙 Call-Me Sign – Thumb extended out; Pinky extended down/out; Index + Middle + Ring curled.
+
+
 > We also apply temporal smoothing with a small frame counter per gesture (`REQUIRED_FRAMES = 3`), so labels appear only when the gesture is stable for a few frames.
 
 
